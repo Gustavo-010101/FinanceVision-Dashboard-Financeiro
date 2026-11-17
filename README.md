@@ -28,3 +28,12 @@ Funcionalidades
 Objetivo
 
 Demonstrar conhecimentos práticos em análise de dados, modelagem de informações financeiras, criação de medidas DAX e desenvolvimento de dashboards para acompanhamento de indicadores de desempenho.
+## Visualização do Dashboard
+
+### Página 1 — Visão Geral
+
+![Dashboard FinanceVision - Visão Geral](Captura%20de%20tela%202026-11-17%20181240.png)
+
+### Página 2 — Análise Detalhada
+
+![Dashboard FinanceVision - Análise Detalhada](Captura%20de%20tela%202026-11-17%20181259.png)
